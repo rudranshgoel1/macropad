@@ -1,0 +1,9 @@
+Name,Purpose,Quantity,Total Cost (USD),Link,Distributor
+ESP32-S3 SuperMini,Main MCU,1,7.4,https://www.amazon.in/gp/product/B0H8YMNKHL,Amazon
+Switches for Transmitter,Switches for controlling the car,8,0,SELF SOURCED,SELF SOURCED
+Keycaps for the switches,Keycaps of the switches,8,0,SELF SOURCED,SELF SOURCED
+0.91 inch display,Display,1,2.2,https://robu.in/product/0-91-inch-128x32-i2c-iic-serial-blue-oled-lcd-display-module/,Robu
+Case 3D Printed,Case for the entire macropad,1,0,Printing Legion,Printing Legion
+PCB of Transmitter AND Receiver,Main PCBs,5,13.82,https://jlcpcb.com/,JLPCB
+,,,,,
+,,,23.42,,
